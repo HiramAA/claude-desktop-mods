@@ -1,0 +1,19 @@
+{
+  "name": "claude-desktop-mods",
+  "owner": { "name": "amalitica" },
+  "metadata": {
+    "description": "Mods para Claude Code y Claude Desktop en Windows con WSL: Docker y rendimiento de la computadora arriba del prompt"
+  },
+  "plugins": [
+    {
+      "name": "docker-wsl",
+      "source": "./docker-wsl",
+      "description": "Barra azul arriba del prompt con cuántos y cuáles contenedores Docker corren en WSL"
+    },
+    {
+      "name": "rendimiento",
+      "source": "./rendimiento",
+      "description": "Barra con el CPU, la RAM, la memoria de WSL y el espacio libre en C: de tu computadora"
+    }
+  ]
+}
