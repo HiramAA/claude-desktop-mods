@@ -28,8 +28,8 @@ En una sesión de Claude Code en la terminal (en la pestaña Code de Claude Desk
 este comando no está disponible):
 
 ```
-/plugin install docker-wsl --marketplace amalitica/claude-desktop-mods
-/plugin install rendimiento --marketplace amalitica/claude-desktop-mods
+/plugin install docker-wsl --marketplace HiramAA/claude-desktop-mods
+/plugin install rendimiento --marketplace HiramAA/claude-desktop-mods
 ```
 
 Responde `y` para agregar el marketplace y elige el alcance de usuario. Quedan

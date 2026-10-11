@@ -2,6 +2,6 @@
   "name": "docker-wsl",
   "version": "0.1.0",
   "description": "Muestra arriba del prompt cuántos y cuáles contenedores Docker están corriendo en WSL",
-  "author": { "name": "amalitica" },
+  "author": { "name": "HiramAA" },
   "types": "./types/index.d.ts"
 }

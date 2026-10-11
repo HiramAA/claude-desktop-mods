@@ -2,6 +2,6 @@
   "name": "rendimiento",
   "version": "0.1.0",
   "description": "Barra con el CPU, la RAM, la memoria de WSL y el espacio libre en C: de tu computadora",
-  "author": { "name": "amalitica" },
+  "author": { "name": "HiramAA" },
   "types": "./types/index.d.ts"
 }
